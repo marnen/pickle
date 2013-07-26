@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'rspec'
+require 'rspec/core'
 require 'active_support'
 require 'active_record'
 
